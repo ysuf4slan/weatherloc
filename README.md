@@ -10,4 +10,4 @@ A modern weather application built using Kotlin and OSMDroid.
 • While building the application, I used modern AI tools as a technical partner to structure the architecture and utilized Pixabay content for in-app vector assets.
 
 
-• You can download the latest APK file from the [Releases](https://github.com/yusf4slan/weatherloc/releases/latest).
+• You can download the latest APK file from the [Releases](https://github.com/ysuf4slan/weatherloc/releases/latest).
